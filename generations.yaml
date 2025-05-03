@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation"
+    start_year: 2015
+    end_year: 2020
+    description: "The original Bentley Bentayga was the brand's first SUV, built on the Volkswagen Group MLB Evo platform shared with the Audi Q7 and Porsche Cayenne. It debuted with a 6.0L W12 engine producing 600 HP, making it the world's fastest production SUV at the time. The lineup later expanded to include V8 petrol, V8 diesel, and hybrid powertrain options. The Bentayga showcased Bentley's renowned craftsmanship with an ultra-luxurious interior featuring the finest materials and customization options. Available in four, five, and seven-seat configurations, it combined practicality with opulence. Special editions included the Bentayga Speed with a 626 HP W12 engine and exclusive design elements."
+
+  - name: "First Generation (Facelift)"
+    start_year: 2020
+    end_year: null
+    description: "The significantly refreshed Bentayga features a complete exterior redesign inspired by the Continental GT and Flying Spur, with a larger grille, elliptical headlamps, and a more sculpted rear with elliptical taillights. The interior received a major update with a new digital instrument cluster, larger touchscreen, revised center console, and upgraded rear seating. Powertrain options continue to include the W12 for the Speed variant, a 4.0L twin-turbo V8, and a plug-in hybrid combining a 3.0L V6 with an electric motor. The post-facelift Bentayga maintains its position as one of the most luxurious and powerful SUVs on the market, offering levels of craftsmanship, personalization, and on-road presence that few rivals can match."
