@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Bentley_Bentayga"
+
 generations:
   - name: "First Generation"
     start_year: 2015
